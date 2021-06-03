@@ -1,0 +1,7 @@
+comconsole_port="0x3e0"
+if_cdce_load="YES"
+
+vmm_load="YES"
+nmdm_load="YES"
+
+pptdevs="3/0/0 4/0/0"
